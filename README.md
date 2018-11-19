@@ -6,5 +6,4 @@ Once completed, submit your final group project via a pull request. The pull req
 
 Documents to submit for final project include:
 - One .R or .py script with code for the entire project. Code should be well commented and run from beginning to end. 
-- One .docx report. This should include generated plots, interpretation of simulations, and answers to the discussion questions. Plots can be exported from R or python as a .pdf or .png using ggsave(). 
-- Two .pdf or .png images of conceptual diagrams for the two models. These are easiest to create in Powerpoint. 
+- One .docx report. This should include conceptual diagrams, generated plots, interpretation of simulations, and answers to the discussion questions. Conceptual diagrams can be create in Powerpoint and exported as a .pdf or .png. Plots can be exported from R or python as a .pdf or .png using ggsave(). 
