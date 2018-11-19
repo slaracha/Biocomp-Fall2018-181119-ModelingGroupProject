@@ -1,4 +1,4 @@
-## Biocomp-Fall2018-181119-ModelingGroupProject
+## Biocomputing-Fall2018: Dynamic Modeling Group Project
 
 See Modeling_GroupProjectDescription.pdf for full instructions.
 
